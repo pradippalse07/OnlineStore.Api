@@ -212,3 +212,4 @@ C:\TestTB\Final\OnlineStore.Api\obj\Debug\net8.0\refint\TestApi.dll
 C:\TestTB\Final\OnlineStore.Api\obj\Debug\net8.0\TestApi.pdb
 C:\TestTB\Final\OnlineStore.Api\obj\Debug\net8.0\TestApi.genruntimeconfig.cache
 C:\TestTB\Final\OnlineStore.Api\obj\Debug\net8.0\ref\TestApi.dll
+C:\TestTB\Final\OnlineStore.Api\obj\Debug\net8.0\TestApi.sourcelink.json
